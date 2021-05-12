@@ -1,4 +1,4 @@
-Shader "Supyrb/Unlit/Texture"
+Shader "Thedeeploop/Unlit/Texture"
 {
     Properties
     {
